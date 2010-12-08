@@ -1,0 +1,43 @@
+MODx Revolution Dutch / Nederlands
+-----------------------------------------------------------
+
+Hier vindt je de Nederlandse vertaling voor MODx Revolution. Elke vertaling bevindt zich in een submap met versienummering aan de hand van de core releases.
+
+In deze readme worden de afspraken voor de vertaling vastgelegd (die nodig zijn). Zo wordt hier de schrijfwijze van de teksten toegelicht zoals deze in het Nederlandse vertalingen geschreven worden. Deze afspraken zijn gemaakt om de kwaliteit te waarborgen en nog belangrijker om dezelfde schrijfwijze voor alle manager pagina's te hanteren. Als je suggesties hebt stuur me dan een e-mail of bertoost85@gmail.com of maak een issue aan!
+
+
+Dutch translation 'rules'
+-----------------------------------------------------------
+
+1) De schrijfwijze;
+
+De meest belangrijke regel is het schrijven in de 'je' en 'jij' vorm. Over de hele manager gezien wordt de schrijfwijze in de 'u' vorm niet gebruikt. Dit heeft ook een reden. Als je namelijk gebruik maakt van MODx, dan doe je dat bewust en weet je wat je gaat doen en daarnaast moet de manager niet de indruk wekken dat het heel moeilijk is (dat ondanks er heel veel mogelijk is). De eerste initiatiefnemers van de vertaling vinden dat als je in de 'u' vorm spreekt het systeem een stuk ingewikkelder lijkt dan dat het is en het is minder persoonlijk, dit terwijl MODx juist naar eigen hand gezet moet worden.
+
+2) MODx termen in de manager;
+
+Daarop volgend is heel belangrijk dat het doel van de manager niet door de vertaling verminderd. Daarom is besloten om de termen die MODx hanteert nagenoeg niet te vertalen naar het Nederlands. Hier zie je een lijstje met de termen in het Engels, gevolgt door de Nederlandse vertaling (indien deze verschilt). Uiteraard is enkelvoud en/of meervoud hier niet vermeld, dit verschilt niet qua vertaling.
+
+	- Resources				Documenten
+	- Elements				Elementen
+	- Files					Bestanden
+	
+	- Templates
+	- Template Variales		Template variabelen
+	- Chunks
+	- Snippets
+	- Plugins
+	- Categories			Categoriën
+	
+	- Contexts
+	- Namespaces
+	- Lexicons
+	
+	- Resources Tree		Boomstructuur / Documentstructuur
+	
+Zo zijn er wellicht nog meer termen in MODx die we niet vertalen of nagenoeg niet aanpassen, om zo de terminologie van MODx te behouden, daarnaast snapt naar ons idee iedere ontwikkelaar de termen wel en eventuele eindgebruikers / klanten snappen veel termen zoals 'templates' ook beter dan de vertaling.
+
+
+Deelnemen aan de vertaling?
+-----------------------------------------------------------
+
+We kunnen altijd mensen gebruiken die mee kunnen helpen aan de vertaling, dit kan zijn door verbeteringen te verrichten aan de huidige vertaling of om vertalingswijzigingen voor nieuwe versies te verwerken. Voor andere vragen of opmerkingen stuur een berichtje of maak een issue aan.
